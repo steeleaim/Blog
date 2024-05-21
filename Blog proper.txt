@@ -1,9 +1,24 @@
 04/11/2023
-I have never done a blog before. On some good advice, it was suggested a blog would be a great opportunity for me to share my journey into coding and software development (and maybe a good way to look back and see progression).
+I have never done a blog before. On some good advice, it was suggested a blog would be a great opportunity
+for me to share my journey into coding and software development (and maybe a good way to look back and see progression).
 
-In May 2023 I typed my first code - the classic "Hello World!" It was a kickstarter with Code First Girls - Python and Apps. The content was challenging but I found my way through and enjoyed this introduction. In the 8 week period we learnt about the fundementals - syntax, lists, dictionaries, loops, API's (requests + JSON) etc. The final group project employed the use of Pokeapi API to create a little Top-Trumps style program. Really enjoyed implementing what we'd learnt for something fun (and nostalgic!) 
-While I was thoroughly enjoying my introduction to python I planned my next steps - javascript. The day after I completed Python and Apps kickstarter I began an Introduction to Javascript, again with CFG. The two languages are similar, some may argue Python is more user-friendly. I made sure I was attentive (even attempting the course content from a hospital bed after a thymectomy!) 
+May 2023 - I typed my first code - the classic "Hello World!" It was a kickstarter with Code First Girls - Python and Apps.
+The content was challenging but I found my way through and enjoyed this introduction. In the 8 week period we learnt about
+the fundementals: syntax, lists, dictionaries, loops, API's (requests + JSON) etc. The final group project employed the use
+of Pokeapi API to create a little Top-Trumps style program. Really enjoyed implementing what we'd learnt for something
+fun (and nostalgic!) While I was thoroughly enjoying my introduction to python I planned my next steps - javascript.
+The day after I completed Python and Apps kickstarter I began an Introduction to Javascript, again with CFG.
+The two languages are similar, some may argue Python is more user-friendly.
+I made sure I was attentive (even attempting the course content from a hospital bed after a thymectomy!)
 
-Sept 2023 - I was fortunate enough to be sponsored by DSTL (Defence Science and Technology Laboritories) to complete the Code First Girls Degree - an intense 16 week coding course (software engineering pathway). This was an amalgamation of python, JS (with html and css) and SQL, with particular focus on python. I found the process challenging but was able to gain the knowledge and understanding that paved the way for my successful completion in Dec 2023.
+Sept 2023 - I was fortunate enough to be sponsored by DSTL (Defence Science and Technology Laboritories) to complete the
+Code First Girls Degree - an intense 16 week coding course (software engineering pathway). This was an amalgamation of python,
+JS (with html and css) and SQL, with particular focus on python. I found the process challenging but was able to gain the
+knowledge and understanding that paved the way for my successful completion in Dec 2023.
 
-May 2024 - Ever since, I have been researching job opportunities - admittedly with some difficulty. Rightly so, the industry seems to want for computer science graduates from universities. While I was initially very optimistic about my prospects, even applications to apprenticeship opporunities requiring little experience in coding have been unsuccessful. However, I've been sure to keep up coding practices, including 1) a course on SQL which takes a more in-depth look at queries particuarly with larger data sets. 2) Introduction to AI with Python (currently ongoing) and 3) coding challenges through Code Wars - a useful website which tests your programming skills in solving particular problems with difficulty progression. 
+May 2024 - Ever since, I have been researching job opportunities - admittedly with some difficulty. Rightly so, the
+industry seems to want for computer science graduates from universities. While I was initially very optimistic about my
+prospects, even applications to apprenticeship opporunities requiring little experience in coding have been unsuccessful.
+However, I've been sure to keep up coding practices, including 1) a course on SQL which takes a more in-depth look at queries
+particuarly with larger data sets. 2) Introduction to AI with Python (currently ongoing) and 3) coding challenges through
+Code Wars - a useful website which tests your programming skills in solving particular problems with difficulty progression.
