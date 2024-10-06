@@ -26,5 +26,10 @@ May 2024 - Ever since, I have been researching job opportunities - admittedly wi
 industry seems to want for computer science graduates from universities. While I was initially very optimistic about my
 prospects, even applications to apprenticeship opporunities requiring little experience in coding have been unsuccessful.
 However, I've been sure to keep up coding practices, including 1) a course on SQL which takes a more in-depth look at queries
-particuarly with larger data sets. 2) Introduction to AI with Python (currently ongoing) and 3) coding challenges through
-Code Wars - a useful website which tests your programming skills in solving particular problems with difficulty progression.
+particuarly with larger data sets. 2) Introduction to AI with Python and 3) coding challenges through
+Code Wars - a useful website which tests your programming skills in solving particular problems with difficulty progression. 
+
+July 2024 - Cybersecurity - I have continued to develop my interest in Cybersecurity. I am fortunate enough to have been granted
+a place on the CFG +masters course which begins in Jan 2025 and is an intensive 4 week course that follows on from my software
+engineering pathway completed last year. In the meantime I am working towards the Google Certificate in Cybersecurity. 
+I'm so far enjoying the course and hope it might contribute to my job prospects. 
